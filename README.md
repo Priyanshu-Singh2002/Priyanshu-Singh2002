@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Priyanshu-Singh
 - 👀 I’m interested in ...full stack development,Data-Science.
-- 🌱 I’m currently learning ...Java,python framework.
 - 💞️ I’m looking to collaborate on...in some development projects.
 - 📫 you can contact me in www.linkedin.com/in/priyanshu-singh-562b63287
